@@ -3,7 +3,7 @@ Apache+PHP build pack
 
 This is a build pack bundling PHP and Apache for Heroku apps.
 
-Configuration
+Configuration 
 -------------
 
 The config files are bundled with the build pack itself:
